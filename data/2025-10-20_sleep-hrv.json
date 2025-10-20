@@ -1,0 +1,62 @@
+[
+  {
+    "date": 1760940181,
+    "date_readable": "2025-10-20 02:03:01",
+    "timezone": "",
+    "timezone_offset": "-0400",
+    "hrv": 9.0,
+    "unit": "ms",
+    "source": "oura_ring_rmssd",
+    "measurement_type": "rMSSD"
+  },
+  {
+    "date": 1760940481,
+    "date_readable": "2025-10-20 02:08:01",
+    "timezone": "",
+    "timezone_offset": "-0400",
+    "hrv": 8.0,
+    "unit": "ms",
+    "source": "oura_ring_rmssd",
+    "measurement_type": "rMSSD"
+  },
+  {
+    "date": 1760940781,
+    "date_readable": "2025-10-20 02:13:01",
+    "timezone": "",
+    "timezone_offset": "-0400",
+    "hrv": 9.0,
+    "unit": "ms",
+    "source": "oura_ring_rmssd",
+    "measurement_type": "rMSSD"
+  },
+  {
+    "date": 1760941081,
+    "date_readable": "2025-10-20 02:18:01",
+    "timezone": "",
+    "timezone_offset": "-0400",
+    "hrv": 9.0,
+    "unit": "ms",
+    "source": "oura_ring_rmssd",
+    "measurement_type": "rMSSD"
+  },
+  {
+    "date": 1760941381,
+    "date_readable": "2025-10-20 02:23:01",
+    "timezone": "",
+    "timezone_offset": "-0400",
+    "hrv": 9.0,
+    "unit": "ms",
+    "source": "oura_ring_rmssd",
+    "measurement_type": "rMSSD"
+  },
+  {
+    "date": 1760941681,
+    "date_readable": "2025-10-20 02:28:01",
+    "timezone": "",
+    "timezone_offset": "-0400",
+    "hrv": 10.0,
+    "unit": "ms",
+    "source": "oura_ring_rmssd",
+    "measurement_type": "rMSSD"
+  }
+]
