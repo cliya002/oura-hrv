@@ -1,0 +1,12 @@
+[
+  {
+    "date": 1761948600,
+    "date_readable": "2025-10-31 18:10:00",
+    "timezone": "",
+    "timezone_offset": "-0400",
+    "hrv": 12.0,
+    "unit": "ms",
+    "source": "oura_ring_rmssd",
+    "measurement_type": "rMSSD"
+  }
+]
