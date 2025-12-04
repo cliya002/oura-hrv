@@ -628,5 +628,25 @@
     "unit": "ms",
     "source": "oura_ring_rmssd",
     "measurement_type": "rMSSD"
+  },
+  {
+    "date": 1764852238,
+    "date_readable": "2025-12-04 07:43:58",
+    "timezone": "",
+    "timezone_offset": "-0500",
+    "hrv": 12.0,
+    "unit": "ms",
+    "source": "oura_ring_rmssd",
+    "measurement_type": "rMSSD"
+  },
+  {
+    "date": 1764852538,
+    "date_readable": "2025-12-04 07:48:58",
+    "timezone": "",
+    "timezone_offset": "-0500",
+    "hrv": 15.0,
+    "unit": "ms",
+    "source": "oura_ring_rmssd",
+    "measurement_type": "rMSSD"
   }
 ]
