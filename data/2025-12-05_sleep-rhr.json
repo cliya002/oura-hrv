@@ -1,0 +1,12 @@
+[
+  {
+    "date": 1764892768,
+    "date_readable": "2025-12-04 18:59:28",
+    "timezone": "UTC-05:00",
+    "timezone_offset": "-0500",
+    "rhr": 92,
+    "unit": "bpm",
+    "source": "oura_ring_sleep",
+    "measurement_type": "lowest_heart_rate"
+  }
+]
