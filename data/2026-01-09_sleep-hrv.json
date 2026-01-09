@@ -978,5 +978,35 @@
     "unit": "ms",
     "source": "oura_ring_rmssd",
     "measurement_type": "rMSSD"
+  },
+  {
+    "date": 1767955502,
+    "date_readable": "2026-01-09 05:45:02",
+    "timezone": "",
+    "timezone_offset": "-0500",
+    "hrv": 13.0,
+    "unit": "ms",
+    "source": "oura_ring_rmssd",
+    "measurement_type": "rMSSD"
+  },
+  {
+    "date": 1767955802,
+    "date_readable": "2026-01-09 05:50:02",
+    "timezone": "",
+    "timezone_offset": "-0500",
+    "hrv": 11.0,
+    "unit": "ms",
+    "source": "oura_ring_rmssd",
+    "measurement_type": "rMSSD"
+  },
+  {
+    "date": 1767956102,
+    "date_readable": "2026-01-09 05:55:02",
+    "timezone": "",
+    "timezone_offset": "-0500",
+    "hrv": 13.0,
+    "unit": "ms",
+    "source": "oura_ring_rmssd",
+    "measurement_type": "rMSSD"
   }
 ]
